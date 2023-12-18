@@ -1,6 +1,6 @@
 # ApiRequesterQTQuick
 
-Всё приложение программы.
+Скрин программы.
 ![fullprog](https://github.com/Nikik89/ApiRequesterQTQuick/assets/128841664/b5e9f901-4543-493a-bb24-5c729240ccec)
 Если в базе данных осталась таблица, то из неё вытягиевает данные.
 
