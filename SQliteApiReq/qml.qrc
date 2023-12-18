@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DetailsPage.qml</file>
+        <file>InputDialog.qml</file>
+    </qresource>
+</RCC>
